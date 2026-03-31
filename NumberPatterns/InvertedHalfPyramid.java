@@ -6,7 +6,7 @@
 1
 */
 
-public class Pattern2 {
+public class InvertedHalfPyramid {
     public static void main(String args[]){
         int n = 5;
 
