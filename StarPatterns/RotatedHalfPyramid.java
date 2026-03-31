@@ -5,7 +5,7 @@
 ****
 */
 
-public class InvertedHalfPyramid180 {
+public class RotatedHalfPyramid {
     public static void main(String args[]){
         int n = 4;        
 
