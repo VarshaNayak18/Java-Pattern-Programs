@@ -11,7 +11,7 @@
 *        *
 */
 
-public class HollowButterfly {
+public class HollowButterflyPattern {
   public static void main(String args[]){
     int n = 5;
     

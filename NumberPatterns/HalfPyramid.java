@@ -6,7 +6,7 @@
 1 2 3 4 5
 */
 
-public class Pattern1 {
+public class HalfPyramid {
     public static void main(String args[]){
         int n = 5;
 
